@@ -2,7 +2,7 @@
 A grim and gritty Shattered Skyrim modlist for Wabbajack
 
 
-Shattered Skyrim is a mod that completely changes the game, it *shatters* Skyrim, so there are no cities, towns, villges.
+Shattered Skyrim is a mod that completely changes the game, it *shatters* Skyrim, so there are no inhabited cities, towns, villges.
 
 World Eater is an addon for it that means to defeat Alduin you must weaken him by defeating various Dragon Priests, the world is infested by Draugr and Dragons.
 
