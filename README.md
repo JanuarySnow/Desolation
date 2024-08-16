@@ -159,6 +159,14 @@ Enemy archers are pain, try and get them first.
 
 Draugr aint so bad in small groups or alone, but in the settlements there are MANY of them, along with dragon priests and dragons - avoid settlements until you are powerful enough to approach them, consider settlements as the mid to lategame bosses. Or try and cheese and pick them off and wear them down, they dont respawn.
 
+# Current issues and plans:
+
+quickloot with animals is meant to be disabled, but with some it still pops up but with broken strings. this is likely down to some untarnished UI patch that I removed before and I forgot why I removed so I added it back but now I remember why I removed it so ill remove it again next recompile .
+
+
+the crafting heirarchy needs some work, the higher tiers need to be crafted at a forge, and forge can be crafted with the hearthcraft mod, but that also requires Hearthfire logs whcih will be hard to get in Shattered, ... no good DIY logging mod exists, so I could gimp the COBJ or make some proper logging thing... which would be neat also for various other stuff
+
+
 # Screenshots
 
 ![SkyrimSE 2024-08-15 16-02-31](https://github.com/user-attachments/assets/15846a71-c837-483c-b3c6-b01fcd274c9a)
