@@ -100,7 +100,7 @@ There are essentially 3 tiers to the crafting progression:
 
 2. Tanning Rack - this can be used to make intermediate items out of leather and such.
 
-3. After progressing in the Skills of the Wild skill tree ( activated at a campfire ) - more crafting options will open up, such as building forges and workbenches, these will enable you to build the more complex items at forges. 
+3. After progressing in the Skills of the Wild skill tree ( activated at a campfire ) - more crafting options will open up, with the Hunterborn scrimshaw crafting,  you will also be able to build forges from builders workbenches, these will enable you to build the more complex items at forges. 
 
 There are a multitude of placeable furniture and items to craft - to enable you to build up your own camp or live as a nomad.
 
