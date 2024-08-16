@@ -147,6 +147,8 @@ No current optionals in the list, it is as it is.
 
 for now this is a beta test with people who know how to install Wabbajack lists already, and therefore newcomer-specific instructions arent being provided yet, TBC
 
+Requires 270GB total space, of which there is 105GB downloads
+
 # Gameplay Tips
 
 Avoid combat early. youve only got 3 lives and you die easy.
