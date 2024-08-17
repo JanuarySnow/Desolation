@@ -12,8 +12,6 @@ added draugr cavalry mod
 
 increased draugr type variety at higher levels
 
-Adept draugr sorcerer 3b53E appears to have death shout
-
 fixed some draugr not having combat AI
 
 buffed Shattered dragon priests
