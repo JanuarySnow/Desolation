@@ -168,6 +168,7 @@ the crafting heirarchy needs some work, the higher tiers need to be crafted at a
 
 
 # Screenshots
+![desolation-min](https://github.com/user-attachments/assets/090d8293-8280-4423-9c62-da92f18930b0)
 
 ![SkyrimSE 2024-08-15 16-02-31](https://github.com/user-attachments/assets/15846a71-c837-483c-b3c6-b01fcd274c9a)
 ![SkyrimSE 2024-08-15 16-02-19](https://github.com/user-attachments/assets/8a1b500d-9d23-40dd-96c2-2dbd6483dcad)
