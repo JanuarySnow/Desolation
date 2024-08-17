@@ -163,6 +163,10 @@ Enemy archers are pain, try and get them first.
 
 Draugr aint so bad in small groups or alone, but in the settlements there are MANY of them, along with dragon priests and dragons - avoid settlements until you are powerful enough to approach them, consider settlements as the mid to lategame bosses. Or try and cheese and pick them off and wear them down, they dont respawn.
 
+You start on a mountain, its cold, it might rain, freezing can happen quick, dont neglect fire and gathering wood.
+
+There are a bunch of little bandit camps just down the mountain, they have useful things - bedroll - tent - warmer clothes maybe, will you risk them or go around them?
+
 # Current issues and plans:
 
 quickloot with animals is meant to be disabled, but with some it still pops up but with broken strings. this is likely down to some untarnished UI patch that I removed before and I forgot why I removed so I added it back but now I remember why I removed it so ill remove it again next recompile .
