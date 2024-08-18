@@ -1,3 +1,12 @@
+0.30
+
+removed skyrim souls, didn't love it
+
+updated quicklootIE
+
+added dynamic things instead of kn cutting trees
+now entire tree can be cut, disabled all other aspects of dynamic things in favor of the newer BOS version though.
+
 0.20
 
 remove interior fog
