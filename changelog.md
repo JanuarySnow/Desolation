@@ -1,3 +1,7 @@
+0.31
+
+Added Ominous ENB option
+
 0.30
 
 removed skyrim souls, didn't love it
