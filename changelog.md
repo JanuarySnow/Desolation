@@ -1,3 +1,9 @@
+0.32
+
+Added multiple easier torch and lantern oil recipes
+removed interior fog remover
+tweaked Ominous ENB for slightly brighter visuals
+
 0.31
 
 Added Ominous ENB option
