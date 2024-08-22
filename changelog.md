@@ -1,3 +1,23 @@
+0.4
+
+added simply balanced
+
+added true armor SE and know your true armor
+
+fixed skyvalor skill xp bug with SSL
+
+removed hearthcraft linked storage chests
+
+added default values to true armor and simply balanced to make heavy armor bit tankier  and archery bit less lethal
+
+fixed (I hope) some custom animals with hunterborn and quickloot
+
+Now level 1 player in iron armor can take around 5 hits before dying from melee hits
+
+And bandits in heavy armor take around the same, light armor should be still pretty lethal.
+
+Higher level enemies and higher level player in heavy armor I dont want to get TOO tanky, so this may require further tweaking as testing and feedback comes in
+
 0.32
 
 Added multiple easier torch and lantern oil recipes
