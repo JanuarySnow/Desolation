@@ -2,7 +2,7 @@
 
 ![desolation-min](https://github.com/user-attachments/assets/240df899-5579-4a22-98b2-11e5747a3a0d)
 
-A grim and gritty Shattered Skyrim modlist for Wabbajack
+A grim and gritty Shattered Skyrim modlist for Wabbajack, using Seasons of Skyrim for a permanent winter ( at least until Alduin is destroyed )
 
 
 Shattered Skyrim is a mod that completely changes the game. Makes it a "post-apocalyptic" skyrim
