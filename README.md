@@ -132,4 +132,5 @@ There are a bunch of little bandit camps just down the mountain, they have usefu
 the crafting heirarchy needs some work, the higher tiers need to be crafted at a forge, and forge can be crafted with the hearthcraft mod, but that also requires Hearthfire logs whcih will be hard to get in Shattered, ... no good DIY logging mod exists, so I could gimp the COBJ or make some proper logging thing... which would be neat also for various other stuff
 
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a046d6bf-d527-49b9-a8a8-3e37d1acf159" />
 
